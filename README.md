@@ -1,4 +1,4 @@
-### Hello! 
+# Hello! 
 
 I am Raksshana Harish Babu, a 10th grader who is interested in computer science. I am experienced in Python, and am currently learning Java. 
 
