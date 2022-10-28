@@ -3,7 +3,7 @@
 I am Raksshana Harish Babu, a 10th grader who is interested in the field of computer science. I am experienced in Python, and am currently learning Java. 
 
 ## About Me
-- 👋 I am @raksshana
+- 👋 I am [@raksshana](https://github.com/raksshana)
 - 🤖 I am a programming member on my school's robotic team, FTC 18715
 - 🌱 I am interested in AI 
 <!--
