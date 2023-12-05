@@ -1,6 +1,6 @@
 # Hello! 
 
-I am Raksshana Harish Babu, a 10th grader who is interested in the field of computer science. I am experienced in Python, and am currently learning Java. 
+I am Raksshana Harish Babu, an 11th grader who is interested in the field of computer science. I am experienced in Python, and am currently learning Java. 
 
 ## About Me
 - 👋 I am [@raksshana](https://github.com/raksshana)
