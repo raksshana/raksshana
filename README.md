@@ -4,7 +4,7 @@ Hi! My name is Raksshana Harish Babu, an 11th grader who is interested in the fi
 
 ## About Me
 - 👋 I am [@raksshana](https://github.com/raksshana)
-- 🤖 I am a programming member on my school's robotic team, FTC 18715
+- 🤖 I am programming lead of my school's robotics team, FTC 18715
 - 🌱 I am interested in AI and machine learning
 
 ## Stats
